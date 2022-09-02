@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chong Li</h1>
 
-```
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
+
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
-```
 
 Here are some ideas to get you started:
 
