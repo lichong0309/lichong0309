@@ -2,7 +2,7 @@
 
 <!--
 **lichong0309/lichong0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
