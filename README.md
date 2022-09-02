@@ -4,7 +4,8 @@
 
 ![Chong Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichong0309&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichong)](https://github.com/Christmas/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichong0309)](https://github.com/lichong0309/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichong0309&layout=compact)](https://github.com/lichong0309/github-readme-stats)
 
 Here are some ideas to get you started:
 
